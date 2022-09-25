@@ -4,7 +4,7 @@ Here you'll find various repos for various projects: some science, some literatu
 
 **Current Active Project**: _History Survival Guide_ ⚗️👩🏽‍🚀🧮👨🏽‍🚀🔭
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=History-Survival-Guide)](https://github.com/cyschneck/History-Survival-Guid)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=History-Survival-Guide)](https://github.com/cyschneck/History-Survival-Guide)
 
 
 
