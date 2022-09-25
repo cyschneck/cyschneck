@@ -11,7 +11,7 @@ Here you'll find various repos for various projects: some science, some literatu
 This is an exploration into science history–sometimes more science, sometimes more history. A science and history blog that explores scientific concepts with practical information about how to recreate and use the techniques described in any time period
 
 - [Github Repo - For Code or Storing Images](https://github.com/cyschneck/History-Survival-Guide)
-- [Tumblr - For Behind-the-Scenes and Research Highlights](historysurvivalguide.tumblr.com)
+- [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
 - [Printables - For Fusion360 and 3D Printing](https://www.printables.com/social/328713-cyschneck/about)
 
 <!--
