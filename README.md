@@ -1,6 +1,6 @@
 ### Howdy
 
-Here you'll find various repos for various projects: some science, some literature, some just for fun
+Here you'll find various repos for my various projects: some science, some astronomy, some just for fun
 
 **Current Active Project**: _History Survival Guide_ ⚗️👩🏽‍🚀🧮👨🏽‍🚀🔭
 
@@ -11,6 +11,7 @@ This is an exploration into science history–sometimes more science, sometimes 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
 - [Printables - For Fusion360 and 3D Printing](https://www.printables.com/social/328713-cyschneck/about)
+
 
 <!--
 **cyschneck/cyschneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
