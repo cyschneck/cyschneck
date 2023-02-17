@@ -1,4 +1,4 @@
-### Howdy
+### Howdy!
 
 Here you'll find the repos for my various projects: some science, some astronomy, and some just for fun
 
@@ -10,7 +10,7 @@ Here you'll find the repos for my various projects: some science, some astronomy
 
 *Try it Out:*
 
-A basic Flask application is running at [cyschneck.pythonanywhere.com](http://cyschneck.pythonanywhere.com/) as a front-end to to demonstrate the functionality of the  star-chart-spherical-projection and muller-eot Python packages
+A basic Flask application is running at [cyschneck.pythonanywhere.com](http://cyschneck.pythonanywhere.com/) as a front-end to to demonstrate the functionality of the  muller-eot and star-chart-spherical-projection Python packages
 
 **History Survival Guide** ⚗️👩🏽‍🚀🧮👨🏽‍🚀🔭
 
