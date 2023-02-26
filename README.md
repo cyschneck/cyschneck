@@ -1,12 +1,12 @@
 ### Howdy!
 
-Here you'll find the repos for my various projects: some science, some astronomy, and some just for fun
+Here you'll find the repos for my projects: some science, some astronomy, and some just for fun
 
 **PyPi Python Packages** 🐍
 
 - **[pip install pydar](https://pypi.org/project/pydar/)**: Access, download, view, and manipulate Cassini RADAR data from the image flybys on Saturn’s moon Titan 🛰️🐍
-- **[pip install star-chart-spherical-projection](https://pypi.org/project/star-chart-spherical-projection/)**: Generate star charts (past and future) with spherical projection to overcome spherical distortions with hundreds of named stars over 400,000 years while accounting star movement with proper motion and precession of the equinoxes ⭐🐍
-- **[pip install muller-eot](https://pypi.org/project/muller-eot/)**: Calculate and graph the Equation of Time minute differences from an arbitrary eccentricity and obliquity 🕰️🐍
+- **[pip install star-chart-spherical-projection](https://pypi.org/project/star-chart-spherical-projection/)**: Generate circular star charts (past and future) from spherical projection with hundreds of named stars over 400,000 years with proper motion and precession of the equinoxes ⭐🐍
+- **[pip install muller-eot](https://pypi.org/project/muller-eot/)**: Calculate and graph the Equation of Time minute differences from seperate and arbitrary eccentricity and obliquity 🕰️🐍
 
 *Try it Out:*
 
