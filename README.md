@@ -5,6 +5,7 @@ Here you'll find the repos for my projects: some science, some astronomy, and so
 **PyPi Python Packages** 🐍
 
 - **[pip install pydar](https://pypi.org/project/pydar/)**: Access, download, view, and manipulate Cassini RADAR data from the image flybys on Saturn’s moon Titan 🛰️🐍
+- **[pip install centerline-width](https://pypi.org/project/centerline-width/)**: Find the centerline and width of rivers based on the latitude and longitude from a right and left bank 🌊🐍
 - **[pip install star-chart-spherical-projection](https://pypi.org/project/star-chart-spherical-projection/)**: Generate circular star charts (past and future) from spherical projection with hundreds of named stars over 400,000 years with proper motion and precession of the equinoxes ⭐🐍
 - **[pip install muller-eot](https://pypi.org/project/muller-eot/)**: Calculate and graph the Equation of Time minute differences from seperate and arbitrary eccentricity and obliquity 🕰️🐍
 
