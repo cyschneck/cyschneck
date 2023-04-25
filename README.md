@@ -21,8 +21,6 @@ This is an exploration into science history–sometimes more science, sometimes 
 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
-- [Printables - For Fusion360 and 3D Printing](https://www.printables.com/social/328713-cyschneck/about)
-
 
 <!--
 **cyschneck/cyschneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
