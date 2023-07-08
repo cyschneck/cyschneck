@@ -1,6 +1,6 @@
 ### Howdy!
 
-Here you'll find the repos for my projects: some science, some earth science, some astronomy, and some just for fun
+Here you'll find the repos for my projects: some earth science, some astronomy, and some just for fun
 
 **PyPi Python Packages** 🐍
 
@@ -21,19 +21,3 @@ This is an exploration into science history–sometimes more science, sometimes 
 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
-
-<!--
-**cyschneck/cyschneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
