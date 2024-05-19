@@ -21,3 +21,7 @@ This is an exploration into science history–sometimes more science, sometimes 
 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
+
+**Push Notifications for iNaturalist** 🐛🌿🐌🍄
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=unaschneck&repo=intaturalist-push-notifications)](https://github.com/unaschneck/intaturalist-push-notifications)
