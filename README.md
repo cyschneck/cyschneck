@@ -17,11 +17,14 @@ A Flask application is running at [cyschneck.pythonanywhere.com](http://cyschnec
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=History-Survival-Guide)](https://github.com/cyschneck/History-Survival-Guide)
 
-This is an exploration into science history–sometimes more science, sometimes more history. A science and history blog that explores scientific concepts with practical information about how to recreate and use the techniques described in any time period. Each page is the accumulation of research for a particular topic, synthesized and summarized in a useful ‘survival guide’ format. So far, topics covered included using the proper motion of stars to determine what time period a time traveler could have found themselves in, deciphering ‘Hobo Symbols’ of the 1800’s, and how to read the Pioneer Plaque. All pages are done in a pulp science fiction aesthetic.
+This is an exploration into science history–sometimes more science, sometimes more history. A science and history blog that explores scientific concepts with practical information about how to recreate and use the techniques described in any time period. Each page is the accumulation of research for a particular topic, synthesized and summarized in a useful ‘survival guide’ format. So far, topics covered included using the proper motion of stars to determine what time period a time traveler could have found themselves in, deciphering the Pioneer Plaque, and how to construct an astrolabe by hand. All pages are done in a pulp science fiction aesthetic.
 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
 
 **iNaturalist Push Notifications** 🐛🌿🐌🍄
- 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=unaschneck&repo=intaturalist-push-notifications)](https://github.com/unaschneck/intaturalist-push-notifications)
+
+Receive custom live alerts when a user posts a new observation to iNaturalist
+
