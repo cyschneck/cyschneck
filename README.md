@@ -9,10 +9,6 @@ Here you'll find the repos for my projects: some earth science, some astronomy, 
 - **[pip install star-chart-spherical-projection](https://pypi.org/project/star-chart-spherical-projection/)**: A Python package to generate astronomy star charts that corrects for distortions with stereographic projection ⭐🐍
 - **[pip install muller-eot](https://pypi.org/project/muller-eot/)**: Calculate and graph the Equation of Time minute differences from separate and arbitrary eccentricity and obliquity 🕰️🐍
 
-*Try it Out:*
-
-A Flask application is running at [cyschneck.pythonanywhere.com](http://cyschneck.pythonanywhere.com/) with a basic front-end to to demonstrate the functionality of the star-chart-spherical-projection and muller-eot Python PyPi packages
-
 **History Survival Guide** ⚗️👩🏽‍🚀🧮👨🏽‍🚀🔭
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=History-Survival-Guide)](https://github.com/cyschneck/History-Survival-Guide)
