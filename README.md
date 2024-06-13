@@ -17,9 +17,9 @@ A Flask application is running at [cyschneck.pythonanywhere.com](http://cyschnec
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cyschneck&repo=History-Survival-Guide)](https://github.com/cyschneck/History-Survival-Guide)
 
-A science and history blog to explore science with practical information about how to recreate and use the techniques described. Each topic is the accumulation of research, synthesized and summarized in a useful ‘survival guide’ format. 
+A science and history blog to explore science with practical information about how to recreate and use the techniques described. Each topic is the accumulation of research, synthesized and summarized in a useful ‘survival guide’ format
 
-So far, topics include using the proper motion of stars to determine what time period a time traveler could have found themselves in, deciphering the Pioneer Plaque, and how to construct an astrolabe by hand. All pages are done in a pulp science fiction aesthetic.
+So far, topics include using the proper motion of stars to determine what time period a time traveler could have found themselves in, deciphering the Pioneer Plaque, and how to construct an astrolabe by hand. All pages are done in a pulp science fiction aesthetic
 
 - [History Survival Guide - Website with full Guides](https://historysurvivalguide.com/)
 - [Tumblr - For Behind-the-Scenes and Research Highlights](https://historysurvivalguide.tumblr.com)
@@ -28,5 +28,5 @@ So far, topics include using the proper motion of stars to determine what time p
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=unaschneck&repo=intaturalist-push-notifications)](https://github.com/unaschneck/intaturalist-push-notifications)
 
-Receive custom live alerts when a user posts a new observation to iNaturalist
+Receive live phone alerts when a friend posts a new observation to iNaturalist
 
